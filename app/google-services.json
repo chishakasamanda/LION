@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894753330225",
+    "project_id": "lion-8ac1e",
+    "storage_bucket": "lion-8ac1e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894753330225:android:81725dbaaf44ef0c703110",
+        "android_client_info": {
+          "package_name": "com.example.lion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlEATpSv4MDD2EuFmOLOq95EXh7fm1130"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
